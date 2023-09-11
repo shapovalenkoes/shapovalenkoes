@@ -5,7 +5,9 @@ I'm student of the Russian office of School 42 (School 21). There you can see so
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I'm interested in backend programming, algorithms and ML
 
-- :dart: I’m currently learning Python / PostgreSQL / DevOps
+- 👨‍🎓 I’m currently learning Python / PostgreSQL / DevOps
+
+- :dart: The goal: work in Yandex
 
 
 [![LeetCode shapovalenkoes](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fshapovalenkoes&logo=leetcode&logoColor=yellow)](https://leetcode.com/shapovalenkoes/)
